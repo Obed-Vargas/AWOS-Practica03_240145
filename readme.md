@@ -10,7 +10,7 @@ Esta práctica será desarrollada con estructura de ramitas por cada fase, para 
 
 | No. | Descripción | Ponderador | Estatus |
 |-----|-------------|------------|---------|
-| 1. | Configuración del Proyecto | ⚪ | ❌ Sin iniciar |
+| 1. | Configuración del Proyecto | 3 | ✅ finalizado |
 | 2. | Configuración del Servidor | X | ❌ Sin iniciar |
 | 3. | Configuración de la Librería de Estilos (Tailwind CSS) | X | ❌ Sin iniciar |
 | 4. | Creación de Vistas | X | ❌ Sin iniciar |
